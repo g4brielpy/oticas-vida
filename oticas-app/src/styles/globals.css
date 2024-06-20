@@ -1,10 +1,13 @@
 :root {
-  --max-width: 1100px;
+  --max-width: 1024px;
+
   --white: #fff;
   --white01: #f8f7ff;
   --white02: #f6f6f6;
+
   --gray: #c4c4c4;
   --gray01: #4a4a4a;
+
   --black: #000;
   --dark-blue: #05031b;
 }
