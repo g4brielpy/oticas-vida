@@ -1,0 +1,58 @@
+TÍTULO DA PÁGINA
+Óticas vida - Loja de óculos
+
+links:
+PRODUTOS
+SOBRE
+CONTATO
+
+
+SecaoCapa:
+Preços baixos e
+Óculos de grau e de sol
+Você só encontra aqu
+
+
+SecaoProdutos:
+Nossos produtos
+Trabalhamos com óculos de grau, óculos de sol, lentes transition nos modelos masculino, feminino e infantil.
+Todos os nossos preços são acessíveis e contam com a melhor qualidade do mercado.
+Óculos de grau
+R$ 500,00
+Óculos transition
+R$ 750,00
+Óculos de sol
+R$ 700,00
+Óculos infantil
+R$ 500,00
+Todos os nossos produtos incluem:
+Garantia de 1 ano
+Manutenção preventiva
+Descontos especiais na compra da segunda unidade
+Flexibilidade de pagamento
+
+
+SecaoSobre:
+QUEM SOMOS NÓS?
+Fundada em 2001, em Nova Iguaçu - Rio de Janeiro, a Óticas vida iniciou suas atividades focada no atendimento ao público de renda mais baixa, sempre com o objetivo de proporcionar ao cliente bom atendimento, qualidade e preço baixo. 
+Nossas Filiais
+Hoje temos mais de 20 filiais pelo Brasil e na América
+Atendimento flexível
+Nossa equipe possui é treinada para te atender
+
+
+SecaoContato:
+Fale conosco
+Não perca tempo, venha conhecer uma de nossas lojas ou entre em contato através de nossas redes sociais ou da central de atendimento.
+Contato
+Nova Iguaçu, RJ
+(21) 9999-9999
+contato@oticavida.com
+Nossas Redes Sociais
+/OticaVida
+@oticavidarj
+@oticavidarj
+
+
+Rodape:
+© 2022 Óticas Vida. - Todos os direitos reservados.
