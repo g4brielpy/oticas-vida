@@ -1,0 +1,30 @@
+#cabecalho {
+  background-color: var(--white);
+  max-width: var(--max-width);
+
+  margin: auto;
+  padding: 0.6rem 1rem;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.img_log {
+  max-width: fit-content;
+  height: 50px;
+  object-fit: cover;
+}
+
+.nav_header {
+  display: flex;
+  gap: 1.1rem;
+}
+.nav_header a {
+  color: var(--black);
+  text-decoration: none;
+}
+.nav_header a:hover {
+  text-decoration: underline;
+}
