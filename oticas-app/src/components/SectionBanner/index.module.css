@@ -1,0 +1,7 @@
+#container_banner {
+  background: url("../../../public/capa.png") no-repeat center right;
+  background-size: cover;
+  
+  width: 100vw;
+  height: 90vh;
+}
