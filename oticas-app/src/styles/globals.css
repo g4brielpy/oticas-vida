@@ -10,13 +10,16 @@
 
   --black: #000;
   --dark-blue: #05031b;
+
+  --font-title: Arial, Helvetica, sans-serif;
+  --font-default: Tahoma, Verdana, sans-serif;
 }
 
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
-  font-family: Tahoma, Verdana, sans-serif;
+  font-family: var(--font-default);
 }
 
 html,
