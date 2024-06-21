@@ -1,7 +1,43 @@
 #container_banner {
   background: url("../../../public/capa.png") no-repeat center right;
   background-size: cover;
-  
+
   width: 100vw;
   height: 90vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.largura_max {
+  width: 100%;
+  max-width: var(--max-width);
+  height: fit-content;
+
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.container_banner {
+  color: var(--white);
+
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.container_banner h1 {
+  max-width: 450px;
+  /* background-color: aqua; */
+
+  font-size: 2.8rem;
+  font-weight: 600;
+  font-family: Arial, Helvetica, sans-serif;
+
+  text-transform: uppercase;
+  letter-spacing: 6px;
+}
+.container_banner p {
+  color: var(--gray);
+  font-size: 1.8rem;
+  letter-spacing: 2px;
 }
