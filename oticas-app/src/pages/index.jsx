@@ -1,6 +1,7 @@
 import Head from "next/head";
 import { Header } from "@/components/Header";
 import { SectionBanner } from "@/components/SectionBanner";
+import { SectionProduto } from "@/components/SectionProdutos";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Header></Header>
       <main>
         <SectionBanner />
+        <SectionProduto />
       </main>
     </>
   );
