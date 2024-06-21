@@ -22,8 +22,10 @@
   gap: 1.1rem;
 }
 .nav_header a {
-  color: var(--black);
+  color: var(--gray01);
   text-decoration: none;
+  font-weight: 600;
+  font-family: var(--font-title);
 }
 .nav_header a:hover {
   text-decoration: underline;
