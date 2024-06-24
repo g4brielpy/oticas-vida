@@ -2,6 +2,7 @@ import Head from "next/head";
 import { Header } from "@/components/Header";
 import { SectionBanner } from "@/components/SectionBanner";
 import { SectionProduto } from "@/components/SectionProdutos";
+import { SectionSobre } from "@/components/SectionSobre";
 
 export default function Home() {
   return (
@@ -16,6 +17,7 @@ export default function Home() {
       <main>
         <SectionBanner />
         <SectionProduto />
+        <SectionSobre />
       </main>
     </>
   );
