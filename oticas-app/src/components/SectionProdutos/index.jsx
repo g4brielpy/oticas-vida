@@ -6,11 +6,9 @@ export function SectionProduto() {
   return (
     <section id={style.section_container}>
       <h2 className="text-center mb-3">Nossos produtos</h2>
-      <p className="text-center">
+      <p className="text-center lh-lg">
         Trabalhamos com óculos de grau, óculos de sol, lentes transition nos
-        modelos masculino, feminino e infantil.
-      </p>
-      <p className="text-center">
+        modelos masculino, feminino e infantil. <br />
         Todos os nossos preços são acessíveis e contam com a melhor qualidade do
         mercado.
       </p>
