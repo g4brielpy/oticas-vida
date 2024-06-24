@@ -1,0 +1,26 @@
+#footer {
+  background-color: var(--dark-blue);
+  color: var(--white02);
+}
+.largura_max {
+  max-width: var(--max-width);
+
+  margin: auto;
+  padding: 5rem 1rem;
+}
+
+.container_card {
+  background-color: var(--dark-blue);
+  color: var(--white02);
+
+  flex: 1 1 350px;
+}
+.container_card img {
+  width: 20px;
+  height: auto;
+}
+
+.direitos_reservados {
+  background-color: var(--black);
+  color: var(--white02);
+}
