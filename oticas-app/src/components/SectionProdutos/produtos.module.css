@@ -25,3 +25,13 @@
   font-size: 1.2rem;
   font-weight: 500;
 }
+
+@media (max-width: 425px) {
+  #section_container {
+    padding: 5rem 0 3rem;
+  }
+  #section_container :is(h2, h3, p) {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
