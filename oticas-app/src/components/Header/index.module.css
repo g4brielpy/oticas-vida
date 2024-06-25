@@ -17,3 +17,23 @@
   font-size: 1.1rem;
   font-family: var(--font-title);
 }
+
+@media (max-width: 580px) {
+  #cabecalho {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  .nav_header {
+    width: 100%;
+    padding-top: 1rem;
+
+    justify-content: space-around;
+    border-top: 2px solid var(--gray);
+  }
+}
+
+@media (max-width: 425px) {
+  .nav_header a {
+    font-size: 1rem;
+  }
+}
