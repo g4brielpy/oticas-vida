@@ -6,7 +6,7 @@ import imgLoja from "@/../public/loja.png";
 
 export function SectionSobre() {
   return (
-    <section id={style.section_container}>
+    <section id={"SectionSobre"} className={style.section_container}>
       <div className={style.largura_max}>
         <h3 className="text-center h3">Quem somos nós? </h3>
         <p className="text-center lh-lg">
