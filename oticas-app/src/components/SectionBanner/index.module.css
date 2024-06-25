@@ -1,4 +1,4 @@
-#container_banner {
+.section_banner {
   background: url("../../../public/capa.png") no-repeat center right;
   background-size: cover;
 
@@ -34,10 +34,11 @@
 }
 
 @media (max-width: 768px) {
-  #container_banner {
+  .section_banner {
     background-position: center center;
     opacity: 0.9;
   }
+  
   .container_banner h1 {
     font-size: 2.2rem;
   }
