@@ -1,5 +1,3 @@
-import Image from "next/image";
-import Banner from "@/../public/capa.png";
 import style from "./index.module.css";
 
 export function SectionBanner() {
