@@ -1,32 +1,19 @@
 #cabecalho {
   background-color: var(--white);
   max-width: var(--max-width);
-
-  margin: auto;
-  padding: 0.6rem 1rem;
-
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  align-items: center;
 }
 
 .img_log {
-  max-width: fit-content;
-  height: 50px;
+  width: 170px;
+  height: auto;
+
   object-fit: cover;
 }
 
-.nav_header {
-  display: flex;
-  gap: 1.1rem;
-}
 .nav_header a {
   color: var(--gray01);
-  text-decoration: none;
-  font-weight: 600;
+
+  font-weight: 500;
+  font-size: 1.1rem;
   font-family: var(--font-title);
-}
-.nav_header a:hover {
-  text-decoration: underline;
 }
