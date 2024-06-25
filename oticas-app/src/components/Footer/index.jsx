@@ -4,7 +4,7 @@ import { CardContato, CardRedesSociais } from "./Cards";
 
 export function Footer() {
   return (
-    <footer id={style.footer}>
+    <footer id={"footer"} className={style.footer}>
       <div className={style.largura_max}>
         <h2 className="text-center mb-3">Fale conosco</h2>
         <p className="text-center lh-lg">

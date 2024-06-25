@@ -16,7 +16,7 @@ export function Header() {
       <Image src={Logo} alt="Logo óticas vida" className={style.img_log} />
       <nav className={`${style.nav_header} d-flex gap-3`}>
         <Link
-          href="#"
+          href="#SectionProduto"
           className="
              link-secondary link-offset-2 link-underline-opacity-10 link-underline-opacity-50-hover
             "
@@ -24,7 +24,7 @@ export function Header() {
           PRODUTO
         </Link>
         <Link
-          href="#"
+          href="#SectionSobre"
           className="
           link-secondary link-offset-2 link-underline-opacity-10 
           link-underline-opacity-50-hover
@@ -33,7 +33,7 @@ export function Header() {
           SOBRE
         </Link>
         <Link
-          href="#"
+          href="#footer"
           className="
           link-secondary link-offset-2 link-underline-opacity-10 
           link-underline-opacity-50-hover
