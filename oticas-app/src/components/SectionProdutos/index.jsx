@@ -4,8 +4,8 @@ import style from "./produtos.module.css";
 
 export function SectionProduto() {
   return (
-    <section id={style.section_container}>
-      <h2 className="text-center mb-3">Nossos produtos</h2>
+    <section id={"SectionProduto"} className={style.section_container}>
+      <h2 className="text-center mb-3 text-uppercase">Nossos produtos</h2>
       <p className="text-center lh-lg">
         Trabalhamos com óculos de grau, óculos de sol, lentes transition nos
         modelos masculino, feminino e infantil. <br />

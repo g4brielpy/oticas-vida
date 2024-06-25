@@ -1,16 +1,8 @@
-#section_container {
+.section_container {
   max-width: var(--max-width);
 
   margin: auto;
   padding: 5rem 1rem 3rem;
-}
-#section_container h2 {
-  text-transform: uppercase;
-}
-
-#container_cards {
-  width: 100%;
-  background-color: aqua;
 }
 
 .card {
@@ -27,10 +19,10 @@
 }
 
 @media (max-width: 425px) {
-  #section_container {
+  .section_container {
     padding: 5rem 0 3rem;
   }
-  #section_container :is(h2, h3, p) {
+  .section_container > :is(h2, h3, p) {
     padding-left: 1rem;
     padding-right: 1rem;
   }

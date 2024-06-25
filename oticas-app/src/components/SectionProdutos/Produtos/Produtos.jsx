@@ -9,8 +9,11 @@ import Img04 from "@/../public/icon-oculos/oculos04.png";
 export function Produtos() {
   return (
     <div
-      id={`container ${style.container_cards}`}
-      className="d-flex flex-column align-items-center gap-3 mt-4 mb-5"
+      id={"container"}
+      className="
+        d-flex flex-column align-items-center gap-3
+         mt-4 mb-5 w-100
+      "
     >
       <div className="d-flex w-100 flex-wrap gap-3 ">
         <div className="flex-grow-1 ">
