@@ -10,13 +10,9 @@
 
 .box :is(figure, div) {
   height: 300px;
-
   flex: 1 1 300px;
 }
 
-.box img {
-  object-fit: cover;
-}
 .box h4 {
   text-transform: uppercase;
   font-family: var(--font-title);
@@ -24,4 +20,13 @@
 .box p {
   color: var(--gray01);
   font-size: 1.4rem;
+}
+
+@media (max-width: 600px) {
+  .box h4{
+    font-size: 1.6rem;
+  }
+  .box p {
+    font-size: 1.1rem;
+  }
 }

@@ -21,7 +21,7 @@ export function SectionSobre() {
               <Image
                 src={imgLoja}
                 alt="Image Loja vida"
-                className="img-fluid h-100"
+                className="img-fluid h-100 object-fit-cover"
               />
             </div>
             <div className="border px-3 d-flex flex-column align-items-center justify-content-center gap-3">
@@ -42,7 +42,7 @@ export function SectionSobre() {
               <Image
                 src={imgAtendimento}
                 alt="Image Atendimento"
-                className="img-fluid h-100"
+                className="img-fluid h-100 object-fit-cover"
               />
             </div>
           </div>
