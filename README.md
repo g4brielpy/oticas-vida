@@ -64,4 +64,4 @@ Para clonar e executar este projeto em seu computador local, siga estes passos:
 ## Deploy
 
 Este projeto será publicado no serviço de hospedagem Vercel.
-Em breve, você poderá acessá-lo através do seguinte link: <https://>
+Em breve, você poderá acessá-lo através do seguinte link: [Acessar página](https://oticasvidabr.vercel.app/)
