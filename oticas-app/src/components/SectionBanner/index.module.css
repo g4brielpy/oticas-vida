@@ -4,10 +4,6 @@
 
   width: 100vw;
   height: 90vh;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 .largura_max {
   width: 100%;
@@ -20,18 +16,13 @@
 
 .container_banner {
   color: var(--white);
-
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
 }
 .container_banner h1 {
   max-width: 450px;
-  /* background-color: aqua; */
 
   font-size: 2.8rem;
   font-weight: 600;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-title);
 
   text-transform: uppercase;
   letter-spacing: 6px;
@@ -40,4 +31,17 @@
   color: var(--gray);
   font-size: 1.8rem;
   letter-spacing: 2px;
+}
+
+@media (max-width: 768px) {
+  #container_banner {
+    background-position: center center;
+    opacity: 0.9;
+  }
+  .container_banner h1 {
+    font-size: 2.2rem;
+  }
+  .container_banner p {
+    font-size: 1.4rem;
+  }
 }
