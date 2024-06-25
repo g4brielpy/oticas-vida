@@ -47,6 +47,10 @@ Para clonar e executar este projeto em seu computador local, siga estes passos:
 
    Abra seu navegador e acesse **http://localhost:3000** para ver a aplicação em execução.
 
+### Requisitos:
+
+- [Node.js v20+ ](https://nodejs.org/en)
+
 ## Deploy
 
 Este projeto será publicado no serviço de hospedagem Vercel.
