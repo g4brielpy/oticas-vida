@@ -25,15 +25,23 @@ Para clonar e executar este projeto em seu computador local, siga estes passos:
    git clone https://github.com/g4brielpy/oticas-vida.git
    ```
 
+   <br>
+
 2. **Instale as dependências:**
 
-   Navegue até o diretório do projeto clonado e instale as dependências
-   executando:
+   Navegue até o diretório do projeto clonado:
 
    ```bash
    cd .\oticas-app\
+   ```
+
+   Instale as dependências executando:
+
+   ```bash
    npm install
    ```
+
+   <br>
 
 3. **Inicie o servidor de desenvolvimento:**
    Após a instalação das dependências, inicie o servidor de desenvolvimento
@@ -43,13 +51,15 @@ Para clonar e executar este projeto em seu computador local, siga estes passos:
    npm run dev
    ```
 
+   <br>
+
 4. **Visualize o projeto:**
 
    Abra seu navegador e acesse **http://localhost:3000** para ver a aplicação em execução.
 
 ### Requisitos:
 
-- [Node.js v20+ ](https://nodejs.org/en)
+- [Node.js v20+](https://nodejs.org/en)
 
 ## Deploy
 
